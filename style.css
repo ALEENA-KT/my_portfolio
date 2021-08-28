@@ -707,7 +707,7 @@ a {
 	display: flex;
 	list-style: none;
 	font-size: 2rem;
-	gap: .5rem;
+	gap: 2rem;
 }
 #contact .left .social-info ul li a {
 	color: var(--primary-color);
